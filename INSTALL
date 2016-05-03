@@ -1,0 +1,5 @@
+Until the build system for this has been set up, it won't be possible to install it with the usual "make install" sequence
+until then, the entire icon theme is still installable by simply downloading the tarball and opening to a directory, then 
+the entire UbuntuStudio_Legacy directory into /usr/share/themes and setting permissions to allow all users to "access files"
+
+A proper build system will be set up but is not ready yet
