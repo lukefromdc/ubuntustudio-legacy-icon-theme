@@ -7,7 +7,7 @@ install-data-local:
 	-rm $(DESTDIR)$(themedir)/makefile.am
 
 uninstall-local:
-	rm -R $(DESTDIR)$(themedir) 
+	rm -R $(DESTDIR)$(datadir)/icons/UbuntuStudio_Legacy
 
 MAINTAINERCLEANFILES = \
 	Makefile.in \
