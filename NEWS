@@ -1,0 +1,190 @@
+Version 1.0:
+
+	use GNU make for installation
+	Fix several missing icons
+
+Version (0.7.2) 
+
+  *Theme index-set all the icons scaleable regardless of filetype
+  *This fixes some icons always displaying at 48x48 when other size needed
+  *do not include icon cache in package, build it postinst
+  
+--Luke from DC <lukefromdc@hushmail.com> Wed, Jan 6, 2016
+
+Version (0.7.1) 
+
+  *Remove dependency on mate-icon-theme as MATE packages now provide any extra icons
+  
+--Luke from DC <lukefromdc@hushmail.com> Sun, Oct 4, 2014
+
+Version (0.7) 
+
+  *replace Ubuntu restricted copyrighted Ubuntu Button w/ MATE button in same blue color
+  
+--Luke from DC <lukefromdc@hushmail.com> Aug 5, 2014
+
+Version (0.6.6) 
+
+  *Fix wrong user-trash icon in panel/16
+  *add postinst script to update gtk-icon-cache
+  
+--Luke from DC <lukefromdc@hushmail.com> Apr 26, 2014
+
+Version (0.6.5) 
+
+  *Add "mate" to "inherits" in theme index to enable missing icons in MATE
+  *add dependency on mate-icon-theme as GNOME is not valid fallback in MATE
+  
+--Luke from DC <lukefromdc@hushmail.com> Apr 21, 2014
+
+Version (0.6.4) 
+
+  *Add session badge icons for lightdm-NOT FOUND from hicolor when this theme selected
+  
+--Luke from DC <lukefromdc@hushmail.com> Jan 17, 2014
+
+Version (0.6.3) 
+
+  *Add openshot icon so huge default fixed svg doesn't dominate menus
+  
+--Luke from DC <lukefromdc@hushmail.com> Dec 29, 2014
+
+Version (0.6.2) 
+
+  *Rename theme folder for consistancy with GTK theme
+  
+--Luke from DC <lukefromdc@hushmail.com> Dec 29, 2014
+
+Version (0.6.1) 
+
+  *Fix oversize shared lib icons in filechooser
+  
+--Luke from DC <lukefromdc@hushmail.com> Dec 24, 2014:
+
+Version (0.6) 
+
+  *Add symbolic icons missing in GNOME, copy from elementary-xfce for gtk 3.14
+  
+--Luke from DC <lukefromdc@hushmail.com> Dec 24, 2014:
+
+
+Version (0.5.3) 
+
+  *Switch 16x16 "edit-find" to white color 
+  
+--Luke from DC <lukefromdc@hushmail.com> Nov 22, 2014:
+
+Version (0.5.2) 
+
+  *General cleanup of misc icons-change green to blue
+  
+--Luke from DC <lukefromdc@hushmail.com> Nov 22, 2014:
+
+Version (0.5.1) 
+
+  *Bugfix for Firefox-switch green add icon to match blue forward/back arrows
+  *Consistant folder icons for actions
+
+--Luke from DC <lukefromdc@hushmail.com> Nov 21, 2014:
+
+Version (0.5) 
+
+  *Major cleanup,switch from green to blue arrows (like of old) for Nemo/Caja
+
+--Luke from DC <lukefromdc@hushmail.com> Nov 21, 2014:
+
+Version (0.4.6) 
+
+  *Remove nonoriginal 48 bit panel icons for network that conflict with the others in some systrays
+
+--Luke from DC <lukefromdc@hushmail.com> Oct 27, 2014:
+
+Version (0.4.5) 
+
+  *Revert trash can icons to original UbuntuStudio to indicate full or empty trash
+
+--Luke from DC <lukefromdc@hushmail.com> Oct 27, 2014:
+
+Version (0.4.4) 
+
+  *Clean up nm-applet and indicator-cpufreq icons, bugfix for start-here icon
+
+--Luke from DC <lukefromdc@hushmail.com> Oct 23, 2014:
+
+Version (0.4.3) 
+
+  *Symbolic style icons for shutdown, trash and monitor under 24px resolution to help MATE look more like Cinnamon
+
+--Luke from DC <lukefromdc@hushmail.com> Sep 28, 2014:
+
+Version (0.4.2) 
+
+  *More symbolic icons for Cinnamon added so wired network would show
+
+--Luke from DC <lukefromdc@hushmail.com> June 28, 2014:
+
+Version (0.4.1) 
+
+  *Copied in some GNOME symbolic icons needed by Cinnamon/gnome-shell, keeping out places and devices icons
+
+--Luke from DC <lukefromdc@hushmail.com> June 25, 2014:
+
+Version (0.4) 
+
+  *Removed certain "symbolic" icons to disable monochrome GTK sidebar icon theme-requires GNOME icon theme change
+
+--Luke from DC <lukefromdc@hushmail.com> June 25, 2014:
+
+
+Version (0.3) 
+    
+   *Entire icon theme rebuilt based on XFCE-based Ubuntustudio-icon package,
+    same icons themselves but no longer as heavy .svg images. Much faster 
+    loading of Nautilus/Nemo/Caja/whatever with this lighter version of the
+    theme! 
+
+--Luke from DC <lukefromdc@hushmail.com> October-November 2013: 
+
+Version (various versions)
+
+   *Icons added to cover needs of new programs and system changed over the years
+
+--Luke from DC <lukefromdc@hushmail.com>
+
+Version (0.1)  
+
+   *certain GNOME 2 icons for packages and some mimetypes substituted
+      
+--Luke from DC <lukefromdc@hushmail.com> Nov 2007: 
+
+
+ORIGINAL ICON THEME
+
+Version (0.4) 
+
+  * Added missing icons.
+
+ -- Luke Yelavich <themuso@ubuntu.com>  Wed, 05 Sep 2007 14:28:09 +1000
+
+Version (0.3) 
+
+  * Adjust the XS-Vcs-Bzr field to point to the actual bzr repository,
+    and not the launchpad info page.
+  * Updated artwork, thanks to Andrew Wedderburn <andrew.wedderburn@gmail.com>
+  * added update-files.sh script, to re-generate Makefile.am files in subdirs.
+
+ -- Luke Yelavich <luke@midget.yelavich.home>  Sat, 25 Aug 2007 19:13:24 +1000
+
+Version (0.2) 
+
+  * debian/control: Add XS-Vcs-Bzr field.
+  * Makefile.am: Remove duplicate declarations of variables.
+  * autogen.sh: Automake now copies instead of symbolically linking.
+
+ -- Luke Yelavich <themuso@ubuntu.com>  Sat, 28 Jul 2007 15:44:49 +1000
+
+Version (0.1) 
+
+  * Initial release.
+
+ -- Janne Jokitalo (AstralJava) <janne.jokitalo@dnainternet.net>  Wed, 04 Apr 2007 13:06:22 +0300
