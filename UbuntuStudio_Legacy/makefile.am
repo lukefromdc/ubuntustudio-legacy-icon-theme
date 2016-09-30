@@ -2,9 +2,9 @@ themedir = $(datadir)/icons/UbuntuStudio_Legacy
 
 install-data-local:
 	cp -R $(top_srcdir)/UbuntuStudio_Legacy $(DESTDIR)$(themedir)
-	rm $(DESTDIR)$(themedir)/makefile
-	rm $(DESTDIR)$(themedir)/makefile.in
-	rm $(DESTDIR)$(themedir)/makefile.am
+	-rm $(DESTDIR)$(themedir)/makefile
+	-rm $(DESTDIR)$(themedir)/makefile.in
+	-rm $(DESTDIR)$(themedir)/makefile.am
 
 uninstall-local:
 	rm -R $(DESTDIR)$(themedir) 

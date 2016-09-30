@@ -1,3 +1,7 @@
+NOTE: you may find it necessary to run 
+gtk-update-icon-cache -q -t -f <icon directory>/UbuntuStudio_Legacy
+to get the installed icons to show up and be usable
+
 Installation Instructions
 *************************
 
