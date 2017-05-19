@@ -1,7 +1,13 @@
+Version 1.0.1:
+
+	*configure.ac: Fix package name, set version 1.0.1
+	*Fix some incorrect icons
+	*Remove icon for Synaptic package manager, use the app's own icon
+
 Version 1.0:
 
-	use GNU make for installation
-	Fix several missing icons
+	*use GNU make for installation
+	*Fix several missing icons
 
 Version (0.7.2) 
 
