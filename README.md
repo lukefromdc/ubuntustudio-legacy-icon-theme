@@ -2,3 +2,6 @@
 Icon theme based on circa 2008 Ubuntu Studio mixed with some original GNOME 2 icons from 2007
 This icon theme is based on what UbuntuStudio used in the Ubuntu Hardy Heron era, except that icons for Debian packages and a few other things have been replaced with circa 2007 GNOME 2 versions. The entire package was refactored in Jan 2014 to use png rather than SVG icons in most cases, based on how the newer UbuntuStudio icon theme and it's elementary icon theme base were organized.
 Since then it has been kept up to date with the addition of icons that were not needed in the past, and with some added icon names to keep up with changes in mimetypes
+
+Be sure to run gtk-update-icon-cache -q -t -f /usr/share/icons/UbuntuStudio_Legacy
+assuming installation in /usr/share/icons to generate the icon cache file
