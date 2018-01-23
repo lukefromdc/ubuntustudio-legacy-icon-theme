@@ -1,6 +1,7 @@
-themedir = $(datadir)/icons/UbuntuStudio_Legacy
+themedir = $(datadir)/icons
 
 install-data-local:
+	mkdir -p $(datadir)/icons/UbuntuStudio_Legacy
 	cp -R $(top_srcdir)/UbuntuStudio_Legacy $(DESTDIR)$(themedir)
 	-rm $(DESTDIR)$(themedir)/makefile
 	-rm $(DESTDIR)$(themedir)/makefile.in
