@@ -1,3 +1,7 @@
+Version 1.0.3:
+
+	*Install .svg icons for network-manager-applet so they can scale in mate-panel's indicator mode
+
 Version 1.0.2:
 
 	*Fix some broken links and missing icons
