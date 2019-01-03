@@ -1,7 +1,7 @@
 
 AC_PREREQ(2.53)
 
-AC_INIT([ubuntustudio-legacy-icon-theme], [1.0.4], [https://github.com/lukefromdc])
+AC_INIT([ubuntustudio-legacy-icon-theme], [1.0.5], [https://github.com/lukefromdc])
 
 AM_INIT_AUTOMAKE([1.11 no-dist-gzip dist-xz tar-ustar check-news])
 
