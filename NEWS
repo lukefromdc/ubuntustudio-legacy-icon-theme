@@ -1,3 +1,8 @@
+Version 1.1.0
+	*Many fixes for HiDPI
+		*most importantly, fix problems in the index.theme file that affect scaling
+	*Replace audio icons with the original very high quality SVG versions first used in UbuntuStudio icon theme
+
 Version 1.0.7:
 	*Fix wrong PDF, software-properties icons
 	* Also remove many broken links
