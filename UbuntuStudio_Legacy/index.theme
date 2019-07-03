@@ -46,7 +46,7 @@ Type=Fixed
 [actions/symbolic]
 Size=64
 MinSize=8
-MaxSize=128
+MaxSize=64
 Context=Actions
 Type=Scalable
 
@@ -124,7 +124,7 @@ Type=Fixed
 Context=apps
 Size=32
 MinSize=8
-MaxSize=128
+MaxSize=64
 Type=Scalable
 
 [apps/symbolic]
@@ -170,7 +170,7 @@ Type=Fixed
 [categories/symbolic]
 Size=64
 MinSize=8
-MaxSize=128
+MaxSize=64
 Context=Categories
 Type=Scalable
 
@@ -212,7 +212,7 @@ Type=Fixed
 [devices/symbolic]
 Size=64
 MinSize=8
-MaxSize=128
+MaxSize=64
 Context=Devices
 Type=Scalable
 
@@ -294,14 +294,14 @@ Type=Fixed
 [mimes/scalable]
 Size=64
 MinSize=8
-MaxSize=128
+MaxSize=64
 Context=Applications
 Type=Scalable
 
 [mimes/symbolic]
 Size=64
 MinSize=8
-MaxSize=128
+MaxSize=64
 Context=Applications
 Type=Scalable
 
@@ -343,7 +343,7 @@ Type=Fixed
 [places/symbolic]
 Size=64
 MinSize=8
-MaxSize=128
+MaxSize=64
 Context=Places
 Type=Scalable
 
@@ -385,7 +385,7 @@ Type=Fixed
 [status/symbolic]
 Size=64
 MinSize=8
-MaxSize=128
+MaxSize=64
 Context=Status
 Type=Scalable
 
