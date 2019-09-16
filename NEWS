@@ -1,3 +1,8 @@
+Version 1.1.1
+	*sharper icons for nm-applet, fix icon for gnome-terminal
+	*mimes/scalable: fix excessive filesizes, still good resolution
+	*mimes: remove many broken links
+
 Version 1.1.0
 	*Many fixes for HiDPI
 		*most importantly, fix problems in the index.theme file that affect scaling
