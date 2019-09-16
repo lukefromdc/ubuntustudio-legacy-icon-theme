@@ -12,11 +12,11 @@
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    id="svg2"
-   width="22"
-   height="22"
-   viewBox="0 0 22 22"
+   width="128"
+   height="127"
+   viewBox="0 0 128 127"
    sodipodi:docname="nm-tech-lte.svg"
-   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <metadata
      id="metadata8">
     <rdf:RDF>
@@ -40,25 +40,34 @@
      guidetolerance="10"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:window-width="773"
+     inkscape:window-width="990"
      inkscape:window-height="480"
      id="namedview4"
      showgrid="false"
-     inkscape:zoom="10.727273"
-     inkscape:cx="11"
-     inkscape:cy="11"
+     inkscape:zoom="1.8582677"
+     inkscape:cx="64"
+     inkscape:cy="63.5"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="0"
      inkscape:current-layer="svg2" />
   <image
-     width="22"
-     height="22"
+     width="128"
+     height="127"
      preserveAspectRatio="none"
      style="image-rendering:optimizeQuality"
-     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAABmJLR0QA/wD/AP+gvaeTAAAACXBI
-WXMAAAsTAAALEwEAmpwYAAAAPklEQVQ4y2NgGAWjYBSMguEIGMnR9H8Bw3+8hiYwMDJR4qqE/fE4
-5ZhoFRRDz2AWSg1ADucFjgtpnypolo4BvPEKjamh3u4AAAAASUVORK5CYII=
+     xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAAB/EAYAAAB3ahZEAAAABmJLR0QA/wCgAADqXyGTAAAACXBI
+WXMAAAsTAAALEwEAmpwYAAAAB3RJTUUH4wkQBDEg+zd5xAAAAitJREFUeNrt3TFoE1EYB/DvGXVr
+EcEu0o6dLB3EDiJIFkeXglvJTS6CXVQqioKLoOCm4KA0uqkd3BQLWToVVEpdOrkoiDiImy7PWTgw
+D3Nnqr/fEji+vDs+cv+8dw+SCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/ilJC2hDzv1ORM5DVC4X
+DbwWO3GmoH4hTseTgvpn8SlOFNRPx8vYKKg/FPuHqjsZj2Kh4MZO1Uxspt/e33t8NOH/JQDAEgD+
+1hIgP9CdBm7sVFURlgCAAADq7NUCWrGVn8dUzfH5+BKfR3+6qhoMer3y9904cvTx9u2ImQuTD99M
+mQEAAgAQAIAAAAQAsMvZBaAdP9Ji/dP+fF9zzAAAAQAIAEAAAAIAaIhdANpxLN/TBDMAQAAAAgAQ
+AIAAAFpmF4C23Ixztcevxl3NMQMABAAgAAABAAgAoBF2AWjHt/Sh9heBJvNYXea1d6+X5i5GRBWD
+uV5z5zl7cHb742zE8TuHz69fMQMABAAgAAABADTLQ0Da8SoOxNOa44taIwBgxFZXu91+f6wvsTvi
+8TqWAIAAYBdZSyu/vK7HvljSloJv/M6fDGIJwHgaNggm0uV4XzDu23wqNgrqv8Z80XWvpOsxXVB/
+K7+I70PUXYqd+r9WMwMAAAAAAADq/ARPsE25N7xi9QAAAABJRU5ErkJggg==
 "
      id="image10"
      x="0"
