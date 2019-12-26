@@ -1,3 +1,9 @@
+Version 1.1.2
+	*Inherit from MATE first, then gnome, then hicolor
+	*cleanup window-close icons
+	*add apps/scalable/org.gnome.ArchiveManager.svg
+		*Use original file-roller icon as new one shipped by GNOME clashes with the package icons here
+
 Version 1.1.1
 	*sharper icons for nm-applet, fix icon for gnome-terminal
 	*mimes/scalable: fix excessive filesizes, still good resolution
